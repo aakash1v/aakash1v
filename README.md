@@ -1,4 +1,4 @@
-[![Header](0becc1f20de8909c7daa826c1221af67.gif "Header")](#)
+
 
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">A passionate python developer from India</h3>
