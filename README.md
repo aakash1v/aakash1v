@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Aakash Kumar from India.<br><br>- 🔭 I’m working as Data Analyst Intern<br>- 📚 I'm currently learning Data Anaysis<br>- 💬 Ask me about **python , Sql**</p>
+<p align="left">I'm Aakash Kumar from India.<br><br>- 🏫 I’m a computer science and engineering student  <br>- 📚 I'm currently learning python <br>- 💬 Ask me about **python , Sql**</p>
 
 ###
 
