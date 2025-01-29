@@ -1,12 +1,70 @@
-<div align="center"> <img height="150" src="img3.jpeg" alt="Aakash Kumar" /> </div> <div align="center"> <a href="https://www.linkedin.com/in/aakash-kumar-50751a249/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/aakashkumar1z/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ee2a7b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" /> </a> <a href="https://twitter.com/aakash1z/"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" /> </a> </div> <div align="center"> <img src="https://profile-counter.glitch.me/aakash1v/count.svg?" alt="Visitor Counter" /> </div>
+<div align="center">
+  <img src="img3.jpeg" alt="Aakash Kumar" height="150">
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aakash-kumar-50751a249/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="25">
+  </a>
+  <a href="https://www.instagram.com/aakashkumar1z/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ee2a7b&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" height="25">
+  </a>
+  <a href="https://twitter.com/aakash1z/">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter" height="25">
+  </a>
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aakash1v/count.svg?" alt="Visitor Counter">
+</div>
+
 <h1 align="center">Hi there, I'm Aakash Kumar! 👋</h1>
-👩‍💻 About Me
+
+**About Me**
+
 I'm a Computer Science and Engineering student from India with a passion for coding, problem-solving, and exploring new technologies.
 
-🏫 Education: Pursuing a degree in Computer Science and Engineering.
-📚 Currently Learning: Python and its ecosystem.
-💬 Ask me about: Python, SQL, and web development.
-🛠️ Languages & Tools
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" /> </div>
-📊 My Stats
-<div align="center"> <img src="https://streak-stats.demolab.com?user=aakash1v&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /> </div>
+* **Education:** Pursuing a degree in Computer Science and Engineering.
+* **Currently Learning:** Python and its ecosystem, including web development and databases.
+* **Ask me about:** Python, SQL, Flask, and web development.
+
+**Skills**
+
+* **Languages:** 
+    * Python
+    * C
+    * JavaScript
+    * HTML
+    * CSS 
+* **Frameworks/Libraries:**
+    * Flask 
+    * SQLAlchemy
+    * Jinja2
+* **Databases:** 
+    * SQLite
+    * PostgreSQL
+* **Tools:**
+    * VS Code
+    * Vim
+    * Git
+* **OS:** 
+    * Ubuntu
+
+**Projects**
+
+* **Agile Project Management Dashboard:** 
+    * Developed a web-based dashboard using Python Flask for managing agile projects.
+    * Features include task creation, assignment, progress tracking, sprint planning, and team collaboration.
+    * Technologies used: Python, Flask, SQLAlchemy, PostgreSQL, HTML, CSS, JavaScript.
+    * [GitHub Repository](https://github.com/aakash1v/agile-dashboard) 
+
+**Connect with Me**
+
+* **LinkedIn:** [https://www.linkedin.com/in/aakash-kumar-50751a249/](https://www.linkedin.com/in/aakash-kumar-50751a249/)
+* **GitHub:** [https://github.com/aakash1v](https://github.com/aakash1v)
+* **Twitter:** [https://twitter.com/aakash1z](https://twitter.com/aakash1z)
+* **Instagram:** [https://www.instagram.com/aakashkumar1z/](https://www.instagram.com/aakashkumar1z/)
+
+**GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash1v&show_icons=true&theme=dark&hide_border=true&border_radius=5" alt="GitHub Stats">
+</div>
