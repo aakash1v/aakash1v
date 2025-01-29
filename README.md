@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpg" alt="Aakash Kumar" height="150" >
+  <img src="img3.jpeg" alt="Aakash Kumar" height="150" >
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/aakash-kumar-50751a249/">
