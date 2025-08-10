@@ -1,114 +1,96 @@
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="img3.jpeg" alt="Aakash Kumar" height="150" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Aakash%20Kumar&fontSize=50&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20DevOps%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/aakash-kumar-50751a249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/aakashkumar1z/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/aakash1z/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+DevOps+Specialist;Arch+Linux+%26+Neovim+Power+User;Building+Clean+%26+Scalable+Systems" alt="Typing SVG">
 </div>
 
+<!-- SOCIAL BADGES -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aakash1v/count.svg?" alt="Visitor Counter">
-</div>
-
-<h1 align="center">Hi, I'm Aakash Kumar 👋</h1>
-
-<div align="center">
-  <em>
-    Software Developer | Stoic Thinker | Anime Enthusiast | Linux User | Embracing Minimalism & Mastery
-  </em>
+  <a href="https://www.linkedin.com/in/aakash-kumar-50751a249/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/aakashkumar1z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/aakash1z/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/aakash1v"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
+> I’m a **Software Engineering Student** focused on **Backend Development, System Design, and DevOps** — powered by **Arch Linux + Neovim**.  
+> My philosophy: *Clarity over chaos. Depth over speed.*
 
-I'm a software engineering student deeply focused on backend development, system design, and modern DevOps practices. Guided by stoic principles, I prefer clarity, calm, and continuous improvement over chaos.
-
-- 🔭 Currently diving into: FastAPI, Docker, GCP, and performance optimization
-- 🧠 Strengths: Python, SQL, Linux ecosystems, API development
-- 🎯 Interests: Anime storytelling, automation, minimalist software
+- 🚀 Currently working on **Microservices with Django + Node.js**
+- 🛠 Core Skills: **Python, SQL, API Development, Docker, Nginx**
+- 🖥 Tools I use daily: **React, Tailwind, tmux, Git, Linux**
+- 🎯 Goal: **High-impact Full-Stack/AI role by 2026**
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 Experience
+
+**🐍 Python/Django Developer Intern – WeSalvator** *(Feb 2025 – May 2025, Remote)*  
+- Built and integrated **REST APIs** for rescue coordination.  
+- Designed **role-based dashboards** for different user types.  
+- Optimized backend scalability and performance.  
+[📄 Certificate](https://drive.google.com/file/d/1N8w8b7-vhkJKZyY7GpgMjt83rs72mjDR/view?usp=sharing)
+
+**📊 Scrum Master & Backend Developer Intern – Infosys Springboard** *(Dec 2024 – Feb 2025, Remote)*  
+- Led Agile ceremonies and coordinated team progress.  
+- Implemented **secure login & role management** in Flask + SQLite.  
+- Built **admin dashboards** with Pandas + Plotly.  
+[📄 Certificate](https://drive.google.com/file/d/170-kTkTb8VoByEBe4Dyn7Cf14eKElK8W/view?usp=sharing)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live / Repo |
+|---------|-------------|------------|-------------|
+| **Agile Project Management Dashboard** | Sprint & task management with analytics. | Flask, SQLAlchemy, SQLite, Plotly, Pandas, GCP | [🌐 Demo](https://p2.project1.space/) · [💻 Repo](https://github.com/aakash1v/Team1) |
+| **Gate Pass Management System** | Role-based hostel gate pass request & approval system. | Flask, SQLAlchemy, SQLite, Bootstrap, VPS | [🌐 Demo](https://p1.project1.space) · [💻 Repo](https://github.com/aakash1v/Minor-project) |
+| **Hostel Management System** *(Ongoing)* | Microservices hostel management with attendance tracking. | React, Tailwind, shadcn UI, Node.js, MongoDB, Django, PostgreSQL | [🌐 Demo](https://hms.project1.space) · [💻 Repo](https://github.com/aakash1v/hms) |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Python` · `C` · `JavaScript` · `HTML` · `CSS`
+
+**Backend**  
+`FastAPI` · `Django` · `Flask` · `SQLAlchemy` · `PostgreSQL` · `SQLite`
+
+**Frontend**  
+`React` · `Tailwind CSS` · `shadcn UI` · `Bootstrap`
+
+**DevOps & Tools**  
+`Docker` · `Nginx` · `tmux` · `Neovim` · `Arch Linux` · `Google Cloud`
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <span>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  </span>
-  <br>
-  <span>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/SQLAlchemy-7F4E1E?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-    <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2">
-  </span>
-  <br>
-  <span>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  </span>
-  <br>
-  <span>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
-  </span>
-  <br>
-  <span>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash1v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=aakash1v&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakash1v&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
-### 📌 Highlight Projects
+## 📬 Connect with Me
 
-- **Agile Project Management Dashboard**  
-  A clean, efficient tool for sprint planning and team coordination using Flask and PostgreSQL.  
-  Tech Stack: Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, HTML/CSS  
-  👉 [GitHub Repo](https://github.com/aakash1v/agile-dashboard)
-
-- **Leave Request Management System**  
-  A web-based platform for managing leave applications with role-based access and email notifications.  
-  Tech Stack: Django, HTML, CSS, JavaScript, SQLite  
-  👉 [GitHub Repo](https://github.com/aakash1v/leave-request-system)
-
-- **WeSalvator - Animal Rescue Microservice App** *(Ongoing Internship Project)*  
-  A microservice-based platform to coordinate rescue efforts for injured animals, integrating Django for frontend/admin and FastAPI for service endpoints.  
-  Tech Stack: Django, FastAPI, PostgreSQL, Docker, NGINX, GCP  
-  👉 [GitHub Repo (Private/Coming Soon)](https://github.com/aakash1v/wesalvator)
+- **Portfolio:** [aakash1z.online](https://aakash1z.online)  
+- **LinkedIn:** [Aakash Kumar](https://www.linkedin.com/in/aakash-kumar-50751a249/)  
+- **Twitter:** [@aakash1z](https://twitter.com/aakash1z)  
+- **Instagram:** [@aakashkumar1z](https://www.instagram.com/aakashkumar1z/)  
+- **GitHub:** [aakash1v](https://github.com/aakash1v)
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash1v&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=aakash1v&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" />
 </div>
-
----
-
-### 📬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/aakash-kumar-50751a249/)
-- [Twitter](https://twitter.com/aakash1z)
-- [Instagram](https://www.instagram.com/aakashkumar1z/)
-- [GitHub](https://github.com/aakash1v)
