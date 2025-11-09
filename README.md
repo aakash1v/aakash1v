@@ -1,31 +1,37 @@
 <div align="center">
   <h1>👋 Hi, I'm Aakash Kumar</h1>
-  <p><b>Backend Developer | Django & Python Enthusiast</b></p>
+  <p><b>Backend Developer | Python & Django Specialist</b></p>
 </div>
 
 ---
 
 ### 🧠 About Me
-I'm a **Computer Engineering student** passionate about **backend development** and **API design**.  
-I enjoy building real-world systems using **Django**, **FastAPI**, and **PostgreSQL**, and I’m learning how to deploy and scale them using **Docker** and **Nginx**.
+I'm a **final-year Computer Science student** passionate about building **scalable backend systems** and **clean APIs**.  
+I work primarily with **Django**, **FastAPI**, and **PostgreSQL**, and love deploying production-ready apps using **Docker**, **Nginx**, and **GitHub Actions**.
 
-- 🐍 Backend-first developer focused on **Django + REST APIs**
-- 🧩 Exploring **Microservices** and **DevOps**
-- 🛠 Daily tools: `Neovim` · `tmux` · `Git` · `Arch Linux`
-- 🎯 Goal: Become a strong **Backend Engineer** by 2026
+- ⚙️ Focused on backend engineering and API architecture  
+- 🧩 Exploring microservices, DevOps, and distributed systems  
+- 🛠 Favorite tools: `Neovim` · `tmux` · `Arch Linux` · `Git`  
+- 🎯 Goal: Become a professional **Backend Engineer** by mid-2026  
 
 ---
 
 ### 💼 Experience
 
+**Backend Developer Intern – Paleru Technologies (Praccel)** *(Sep 2025 – Present)*  
+- Building RESTful APIs with Django REST Framework for the Praccel Read-Aloud platform.  
+- Improved Django admin usability for non-technical teams.  
+- Automated recurring backend data workflows and optimized CI/CD pipelines with GitHub Actions.
+
 **Python/Django Developer Intern – WeSalvator** *(Feb 2025 – May 2025)*  
-- Built and integrated REST APIs for rescue coordination.  
-- Designed role-based dashboards and optimized database queries.  
+- Developed backend modules for animal rescue tracking and volunteer management.  
+- Implemented WebSocket-based real-time notifications for rescue events.  
+- Optimized queries, reducing API latency and improving scalability.  
 [📄 Certificate](https://drive.google.com/file/d/1N8w8b7-vhkJKZyY7GpgMjt83rs72mjDR/view?usp=sharing)
 
-**Backend Developer Intern – Infosys Springboard** *(Dec 2024 – Feb 2025)*  
-- Developed authentication and role management with Flask.  
-- Created admin dashboards using Pandas and Plotly.  
+**Backend Developer Intern – Infosys Springboard(Agile Project Management Dashboard)** *(Dec 2024 – Feb 2025)*  
+- Created authentication and RBAC systems using Flask.  
+- Built an analytics dashboard with Pandas and Plotly, deployed on GCP using Gunicorn + Nginx.  
 [📄 Certificate](https://drive.google.com/file/d/170-kTkTb8VoByEBe4Dyn7Cf14eKElK8W/view?usp=sharing)
 
 ---
@@ -34,18 +40,16 @@ I enjoy building real-world systems using **Django**, **FastAPI**, and **Postgre
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| **Hostel Management System** *(Ongoing)* | Microservices-based system for attendance and student data. | Django, FastAPI, Node.js, React, PostgreSQL |
-| **Gate Pass System** | Hostel gate pass approval with role-based login. | Flask, SQLite, Bootstrap |
-| **Agile Dashboard** | Task and sprint tracking with analytics. | Flask, SQLAlchemy, Pandas, Plotly |
+| **FlexHire** *(Ongoing)* | AI-powered hiring platform backend with candidate and recruiter APIs. | Django, FastAPI, PostgreSQL, Docker |
 
 ---
 
 ### 🛠 Tech Stack
 
 **Backend:** `Django` · `FastAPI` · `Flask`  
-**Database:** `PostgreSQL` · `SQLite`  
+**Database:** `PostgreSQL` · `MySQL` · `SQLite`  
 **Frontend (Basic):** `React` · `Tailwind CSS`  
-**Tools:** `Docker` · `Nginx` · `Git` · `tmux` · `Neovim` · `Arch Linux`
+**DevOps & Tools:** `Docker` · `Nginx` · `GitHub Actions` · `tmux` · `Neovim` · `Arch Linux`
 
 ---
 
@@ -59,13 +63,13 @@ I enjoy building real-world systems using **Django**, **FastAPI**, and **Postgre
 ---
 
 ### 📬 Connect with Me
-- 🌐 [Portfolio](https://aakash1z.online)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aakash-kumar-50751a249/)  
-- 🐦 [Twitter](https://twitter.com/aakash1z)  
-- 💻 [GitHub](https://github.com/aakash1v)
+- 🌐 [Portfolio](https://aakash1.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aakash1z/)  
+- 💻 [GitHub](https://github.com/aakash1v)  
+- ✉️ [Email](mailto:aakashkumarpy@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>“Learning to build clean and scalable systems.”</sub>
+  <sub>“Building reliable systems, one commit at a time.”</sub>
 </div>
